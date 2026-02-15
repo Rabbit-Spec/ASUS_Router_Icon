@@ -1,4 +1,5 @@
-# ASUS Router Icon Completion Project
+<h1 align="center">ASUS Router Icon Completion Project</h1>
+  
 <p align="center">
 <img src="https://raw.githubusercontent.com/Rabbit-Spec/ASUS_Router_Icon/main/Spec/IMG_1327.JPG" width="800" alt="Project Banner"></img>
 </p>
@@ -11,7 +12,7 @@
 
 ---
 
-> **🚀 150+ Premium Icons Included & Constantly Growing...**
+> **🚀 180+ Premium Icons Included & Constantly Growing...**
 
 This project is dedicated to **ASUS Router** users who seek a deeper level of customization. I aim to provide a comprehensive set of high-quality, visually consistent icons to replace the generic library in the ASUS Router App.
 
@@ -21,7 +22,7 @@ Whether you own a MacBook Pro, a high-end OLED TV, or a complex smart home setup
 
 ## 🌟 Visual Preview
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/ASUS_Router_Icon/main/Spec/IMG_1328.JPG" width="800" alt="App Preview"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/ASUS_Router_Icon/main/Spec/IMG_1330.PNG" width="800"></img>
 </p>
 
 Transform your dashboard from cluttered to curated with custom icons tailored for modern hardware.
