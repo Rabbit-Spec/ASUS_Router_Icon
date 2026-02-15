@@ -12,8 +12,7 @@
 
 ## 🌟 视觉效果
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/ASUS_Router_Icon/main/Spec/IMG_1328.JPG" width="350"></img>
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/ASUS_Router_Icon/main/Spec/IMG_1329.JPG" width="350"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/ASUS_Router_Icon/main/Spec/IMG_1330.PNG" width="800"></img>
 </p>
 在华硕路由器 App 中，自定义图标能让你的设备列表从“工业风”瞬间切换至“精致感”。
 
