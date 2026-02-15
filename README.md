@@ -1,7 +1,15 @@
 # 华硕路由器「设备图标」补完计划 (ASUS Router Icon Completion)
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/Rabbit-Spec/ASUS_Router_Icon/main/Spec/IMG_1327.JPG" width="800"></img>
 
+---
+
+<p align="center">
+<b>简体中文</b> | <a href="./README_EN.md">English</a>
+  
+---
+  
 > **🚀 现已收录 150+ 款精美图标，持续更新中...**
 
 这是一个为 **ASUS Router** 用户打造的深度美化项目。我致力于提供一套视觉风格高度统一且适配各种设备的高质量图标。
