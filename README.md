@@ -7,7 +7,8 @@
 
 <p align="center">
 <b>简体中文</b> | <a href="./README_EN.md">English</a>
-  
+</p>
+
 ---
   
 > **🚀 现已收录 150+ 款精美图标，持续更新中...**
