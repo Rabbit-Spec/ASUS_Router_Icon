@@ -1,3 +1,4 @@
+[![Support on Afdian](https://img.shields.io/badge/Support-爱发电-orange.svg?style=flat-square&logo=afdian)](https://afdian.com/a/Rabbit-Spec)
 <h1 align="center">华硕路由器「设备图标」补完计划</h1>
 
 <p align="center">
@@ -16,6 +17,14 @@
 这是一个为 **ASUS Router** 用户打造的深度美化项目。我致力于提供一套视觉风格高度统一且适配各种设备的高质量图标。
 
 无论你拥有的是MacBook Pro or OLED TV，还是各种复杂的智能家居外设，本项目都能让你的路由器设备列表告别平庸，重获新生。
+
+---
+
+## ☕ 赞助与支持
+
+如果你觉得 **Rabbit-Spec** 的 华硕路由器「设备图标」补完计划 对你有帮助，欢迎请我喝杯咖啡。
+
+👉 [点击前往爱发电支持我](https://afdian.com/a/Rabbit-Spec)
 
 ---
 
