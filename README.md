@@ -39,7 +39,7 @@
 ## 🚀 使用指南
 
 ### 一. 下载图标
-在[仓库文件夹中](https://github.com/Rabbit-Spec/ASUS_Router_Icon/tree/main/ICON)找到你需要的图标文件（`.png` 或 `.jpg`），下载并保存至手机相册。
+📁 在[仓库文件夹中](https://pan.baidu.com/s/5jXLj3mriaAP5sdEh-PSg3A?)找到你需要的图标文件（`.png` 或 `.jpg`），下载并保存至手机相册。
 
 ### 二. 在 App 中替换
 1. 打开 **ASUS Router App**，点击底部的“**设备**”选项卡。
