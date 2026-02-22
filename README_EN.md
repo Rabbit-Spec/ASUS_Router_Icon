@@ -32,7 +32,7 @@ Transform your dashboard from cluttered to curated with custom icons tailored fo
 ## 🚀 Getting Started
 
 ### 1. Download Icons
-📁 Browse [the repository folders](https://github.com/Rabbit-Spec/ASUS_Router_Icon/tree/main/ICON), find the icon(s) you need (`.png` or `.jpg`), and save them to your phone's photo library.
+📁 Browse [the repository folders](https://drive.google.com/drive/folders/1w6zYouPUOP0G1IR9nDEX0qy0XRvB1mlw?usp=sharing), find the icon(s) you need (`.png` or `.jpg`), and save them to your phone's photo library.
 
 ### 2. Apply in ASUS Router App
 1. Open the **ASUS Router App** and tap the **"Devices"** tab at the bottom.
