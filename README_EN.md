@@ -12,7 +12,7 @@
 
 ---
 
-> **🚀 180+ Premium Icons Included & Constantly Growing...**
+> **🚀 220+ Premium Icons Included & Constantly Growing...**
 
 This project is dedicated to **ASUS Router** users who seek a deeper level of customization. I aim to provide a comprehensive set of high-quality, visually consistent icons to replace the generic library in the ASUS Router App.
 
