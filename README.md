@@ -1,4 +1,4 @@
-[![Support on Afdian](https://img.shields.io/badge/Support-爱发电-orange.svg?style=flat-square&logo=afdian)](https://afdian.com/a/Rabbit-Spec)
+[![Support on Afdian](https://img.shields.io/badge/Support-爱发电-orange.svg?style=flat-square&logo=afdian)](https://ifdian.net/a/Rabbit-Spec)
 <h1 align="center">华硕路由器「设备图标」补完计划</h1>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 如果你觉得 **Rabbit-Spec** 的 华硕路由器「设备图标」补完计划 对你有帮助，欢迎请我喝杯咖啡。
 
-👉 [点击前往爱发电支持我](https://afdian.com/a/Rabbit-Spec)
+👉 [点击前往爱发电支持我](https://ifdian.net/a/Rabbit-Spec)
 
 ---
 
